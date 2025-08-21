@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TLoganayagi/leet/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## String
+|  |
+| ------- |
+| [1156-occurrences-after-bigram](https://github.com/TLoganayagi/leet/tree/master/1156-occurrences-after-bigram) |
 <!---LeetCode Topics End-->
