@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
+| [1524-string-matching-in-an-array](https://github.com/TLoganayagi/leet/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/TLoganayagi/leet/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TLoganayagi/leet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/TLoganayagi/leet/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -53,10 +54,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/TLoganayagi/leet/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/TLoganayagi/leet/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1524-string-matching-in-an-array](https://github.com/TLoganayagi/leet/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/TLoganayagi/leet/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/TLoganayagi/leet/tree/master/1651-shuffle-string) |
 ## Greedy
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/TLoganayagi/leet/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
