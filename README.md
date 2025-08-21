@@ -46,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1156-occurrences-after-bigram](https://github.com/TLoganayagi/leet/tree/master/1156-occurrences-after-bigram) |
+| [1205-defanging-an-ip-address](https://github.com/TLoganayagi/leet/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
