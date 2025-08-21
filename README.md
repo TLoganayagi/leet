@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/TLoganayagi/leet/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/TLoganayagi/leet/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/TLoganayagi/leet/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 ## Greedy
 |  |
 | ------- |
