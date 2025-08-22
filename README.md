@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/TLoganayagi/leet/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/TLoganayagi/leet/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/TLoganayagi/leet/tree/master/1651-shuffle-string) |
+| [1660-thousand-separator](https://github.com/TLoganayagi/leet/tree/master/1660-thousand-separator) |
 ## Greedy
 |  |
 | ------- |
