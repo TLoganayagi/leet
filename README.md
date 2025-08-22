@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/TLoganayagi/leet/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/TLoganayagi/leet/tree/master/1660-thousand-separator) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/TLoganayagi/leet/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1714-rearrange-spaces-between-words](https://github.com/TLoganayagi/leet/tree/master/1714-rearrange-spaces-between-words) |
 ## Greedy
 |  |
 | ------- |
