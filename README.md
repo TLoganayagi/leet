@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1524-string-matching-in-an-array](https://github.com/TLoganayagi/leet/tree/master/1524-string-matching-in-an-array) |
+| [1547-destination-city](https://github.com/TLoganayagi/leet/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/TLoganayagi/leet/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TLoganayagi/leet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/TLoganayagi/leet/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1472-increasing-decreasing-string](https://github.com/TLoganayagi/leet/tree/master/1472-increasing-decreasing-string) |
+| [1547-destination-city](https://github.com/TLoganayagi/leet/tree/master/1547-destination-city) |
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/TLoganayagi/leet/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/TLoganayagi/leet/tree/master/1524-string-matching-in-an-array) |
 | [1542-consecutive-characters](https://github.com/TLoganayagi/leet/tree/master/1542-consecutive-characters) |
+| [1547-destination-city](https://github.com/TLoganayagi/leet/tree/master/1547-destination-city) |
 | [1651-shuffle-string](https://github.com/TLoganayagi/leet/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/TLoganayagi/leet/tree/master/1660-thousand-separator) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/TLoganayagi/leet/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
