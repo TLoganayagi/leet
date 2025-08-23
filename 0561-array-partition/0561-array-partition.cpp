@@ -1,13 +1,12 @@
 class Solution {
 public:
     int arrayPairSum(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int count=0;
-        int n=nums.size();
-        for(int i=0;i<n;i+=2)
-        {
-            count+=nums[i];
+        int n = nums.size();
+        sort(nums.begin(), nums.end());
+        int sum = 0;
+        for(int i = 0; i < n; i += 2) {
+            sum += nums[i];
         }
-        return count; 
+        return sum;
     }
 };
