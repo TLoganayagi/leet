@@ -3,7 +3,8 @@ public:
     int arrayPairSum(vector<int>& nums) {
         sort(nums.begin(),nums.end());
         int count=0;
-        for(int i=0;i<nums.size();i+=2)
+        int n=nums.size();
+        for(int i=0;i<n;i+=2)
         {
             count+=nums[i];
         }
