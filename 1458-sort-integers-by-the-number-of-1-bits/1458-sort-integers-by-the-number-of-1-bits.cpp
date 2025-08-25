@@ -1,17 +1,15 @@
 class Solution {
 public:
+    static bool compare(int a, int b) {
+        if (__builtin_popcount(a) == __builtin_popcount(b)) {
+            return a < b;
+        }
+        
+        return __builtin_popcount(a) < __builtin_popcount(b);
+    }
+    
     vector<int> sortByBits(vector<int>& arr) {
-        vector<pair<int,int>> temp;
-        for(int x: arr)
-        {
-            temp.push_back({__builtin_popcount(x),x});
-        }
-        sort(temp.begin(),temp.end());
-        vector<int> res;
-        for(auto &p:temp)
-        {
-            res.push_back(p.second);
-        }
-        return res;
+        sort(arr.begin(), arr.end(), compare);
+        return arr;
     }
 };
