@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/TLoganayagi/leet/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/TLoganayagi/leet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TLoganayagi/leet/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/TLoganayagi/leet/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Greedy
 |  |
 | ------- |
