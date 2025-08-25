@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/TLoganayagi/leet/tree/master/1547-destination-city) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TLoganayagi/leet/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/TLoganayagi/leet/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1580-shuffle-the-array](https://github.com/TLoganayagi/leet/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/TLoganayagi/leet/tree/master/1651-shuffle-string) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TLoganayagi/leet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TLoganayagi/leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
