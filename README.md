@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/TLoganayagi/leet/tree/master/1505-create-target-array-in-the-given-order) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/TLoganayagi/leet/tree/master/1524-string-matching-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TLoganayagi/leet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/TLoganayagi/leet/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TLoganayagi/leet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TLoganayagi/leet/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TLoganayagi/leet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/TLoganayagi/leet/tree/master/0015-3sum) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TLoganayagi/leet/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TLoganayagi/leet/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
