@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TLoganayagi/leet/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
+| [1293-three-consecutive-odds](https://github.com/TLoganayagi/leet/tree/master/1293-three-consecutive-odds) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/TLoganayagi/leet/tree/master/1505-create-target-array-in-the-given-order) |
