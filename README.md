@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TLoganayagi/leet/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TLoganayagi/leet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1970-sorting-the-sentence](https://github.com/TLoganayagi/leet/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/TLoganayagi/leet/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TLoganayagi/leet/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TLoganayagi/leet/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1944-truncate-sentence](https://github.com/TLoganayagi/leet/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/TLoganayagi/leet/tree/master/1954-replace-all-digits-with-characters) |
+| [1970-sorting-the-sentence](https://github.com/TLoganayagi/leet/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TLoganayagi/leet/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TLoganayagi/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/TLoganayagi/leet/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
