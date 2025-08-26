@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/TLoganayagi/leet/tree/master/1797-goal-parser-interpretation) |
 | [1812-reformat-phone-number](https://github.com/TLoganayagi/leet/tree/master/1812-reformat-phone-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/TLoganayagi/leet/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/TLoganayagi/leet/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TLoganayagi/leet/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TLoganayagi/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/TLoganayagi/leet/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
