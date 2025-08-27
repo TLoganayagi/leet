@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1472-increasing-decreasing-string](https://github.com/TLoganayagi/leet/tree/master/1472-increasing-decreasing-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1472-increasing-decreasing-string](https://github.com/TLoganayagi/leet/tree/master/1472-increasing-decreasing-string) |
 | [1547-destination-city](https://github.com/TLoganayagi/leet/tree/master/1547-destination-city) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
 | [0857-positions-of-large-groups](https://github.com/TLoganayagi/leet/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1156-occurrences-after-bigram](https://github.com/TLoganayagi/leet/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/TLoganayagi/leet/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
