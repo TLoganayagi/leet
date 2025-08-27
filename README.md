@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/TLoganayagi/leet/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/TLoganayagi/leet/tree/master/0290-word-pattern) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1472-increasing-decreasing-string](https://github.com/TLoganayagi/leet/tree/master/1472-increasing-decreasing-string) |
 | [1547-destination-city](https://github.com/TLoganayagi/leet/tree/master/1547-destination-city) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/TLoganayagi/leet/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/TLoganayagi/leet/tree/master/0290-word-pattern) |
 | [0857-positions-of-large-groups](https://github.com/TLoganayagi/leet/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
 | [1156-occurrences-after-bigram](https://github.com/TLoganayagi/leet/tree/master/1156-occurrences-after-bigram) |
