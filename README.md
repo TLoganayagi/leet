@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/TLoganayagi/leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/TLoganayagi/leet/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TLoganayagi/leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/TLoganayagi/leet/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1899-count-items-matching-a-rule](https://github.com/TLoganayagi/leet/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/TLoganayagi/leet/tree/master/1944-truncate-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TLoganayagi/leet/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
