@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/TLoganayagi/leet/tree/master/1505-create-target-array-in-the-given-order) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/TLoganayagi/leet/tree/master/1524-string-matching-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/TLoganayagi/leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/TLoganayagi/leet/tree/master/1547-destination-city) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TLoganayagi/leet/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TLoganayagi/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
