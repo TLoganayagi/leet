@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
+| [0851-goat-latin](https://github.com/TLoganayagi/leet/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/TLoganayagi/leet/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
