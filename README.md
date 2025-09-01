@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/TLoganayagi/leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/TLoganayagi/leet/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TLoganayagi/leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/TLoganayagi/leet/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1899-count-items-matching-a-rule](https://github.com/TLoganayagi/leet/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/TLoganayagi/leet/tree/master/1944-truncate-sentence) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1472-increasing-decreasing-string](https://github.com/TLoganayagi/leet/tree/master/1472-increasing-decreasing-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/TLoganayagi/leet/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TLoganayagi/leet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TLoganayagi/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/TLoganayagi/leet/tree/master/1619-path-crossing) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TLoganayagi/leet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TLoganayagi/leet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
 ## Two Pointers
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/TLoganayagi/leet/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/TLoganayagi/leet/tree/master/1714-rearrange-spaces-between-words) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TLoganayagi/leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/TLoganayagi/leet/tree/master/1797-goal-parser-interpretation) |
 | [1812-reformat-phone-number](https://github.com/TLoganayagi/leet/tree/master/1812-reformat-phone-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/TLoganayagi/leet/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
 | ------- |
