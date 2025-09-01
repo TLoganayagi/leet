@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/TLoganayagi/leet/tree/master/1797-goal-parser-interpretation) |
 | [1812-reformat-phone-number](https://github.com/TLoganayagi/leet/tree/master/1812-reformat-phone-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/TLoganayagi/leet/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/TLoganayagi/leet/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/TLoganayagi/leet/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1899-count-items-matching-a-rule](https://github.com/TLoganayagi/leet/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TLoganayagi/leet/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/TLoganayagi/leet/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## String Matching
 |  |
 | ------- |
