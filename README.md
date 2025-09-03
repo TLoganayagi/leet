@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
+| [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/TLoganayagi/leet/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/TLoganayagi/leet/tree/master/1293-three-consecutive-odds) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/TLoganayagi/leet/tree/master/0015-3sum) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
+| [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TLoganayagi/leet/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/TLoganayagi/leet/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/TLoganayagi/leet/tree/master/1044-find-common-characters) |
 | [1156-occurrences-after-bigram](https://github.com/TLoganayagi/leet/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/TLoganayagi/leet/tree/master/1205-defanging-an-ip-address) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
+| [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/TLoganayagi/leet/tree/master/1858-latest-time-by-replacing-hidden-digits) |
