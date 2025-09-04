@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/TLoganayagi/leet/tree/master/0029-divide-two-integers) |
+| [0263-ugly-number](https://github.com/TLoganayagi/leet/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TLoganayagi/leet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/TLoganayagi/leet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
