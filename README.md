@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/TLoganayagi/leet/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/TLoganayagi/leet/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/TLoganayagi/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TLoganayagi/leet/tree/master/0219-contains-duplicate-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TLoganayagi/leet/tree/master/0015-3sum) |
+| [0202-happy-number](https://github.com/TLoganayagi/leet/tree/master/0202-happy-number) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/TLoganayagi/leet/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/TLoganayagi/leet/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/TLoganayagi/leet/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TLoganayagi/leet/tree/master/1421-find-numbers-with-even-number-of-digits) |
