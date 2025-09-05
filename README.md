@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TLoganayagi/leet/tree/master/0015-3sum) |
+| [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/TLoganayagi/leet/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
