@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TLoganayagi/leet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/TLoganayagi/leet/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/TLoganayagi/leet/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/TLoganayagi/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLoganayagi/leet/tree/master/0217-contains-duplicate) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/TLoganayagi/leet/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/TLoganayagi/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -283,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/TLoganayagi/leet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/TLoganayagi/leet/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/TLoganayagi/leet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
