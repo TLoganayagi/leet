@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLoganayagi/leet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/TLoganayagi/leet/tree/master/0219-contains-duplicate-ii) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/TLoganayagi/leet/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/TLoganayagi/leet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/TLoganayagi/leet/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/TLoganayagi/leet/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/TLoganayagi/leet/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/TLoganayagi/leet/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TLoganayagi/leet/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TLoganayagi/leet/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
