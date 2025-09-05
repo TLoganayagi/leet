@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/TLoganayagi/leet/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TLoganayagi/leet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/TLoganayagi/leet/tree/master/1970-sorting-the-sentence) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/TLoganayagi/leet/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/TLoganayagi/leet/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TLoganayagi/leet/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TLoganayagi/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
