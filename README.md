@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLoganayagi/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TLoganayagi/leet/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TLoganayagi/leet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TLoganayagi/leet/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLoganayagi/leet/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/TLoganayagi/leet/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/TLoganayagi/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TLoganayagi/leet/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/TLoganayagi/leet/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/TLoganayagi/leet/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/TLoganayagi/leet/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/TLoganayagi/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TLoganayagi/leet/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/TLoganayagi/leet/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/TLoganayagi/leet/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TLoganayagi/leet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/TLoganayagi/leet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
