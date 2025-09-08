@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TLoganayagi/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TLoganayagi/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
