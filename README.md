@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TLoganayagi/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TLoganayagi/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
 ## Bit Manipulation
 |  |
@@ -315,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TLoganayagi/leet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/TLoganayagi/leet/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/TLoganayagi/leet/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
