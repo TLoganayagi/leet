@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/TLoganayagi/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
+| [0898-transpose-matrix](https://github.com/TLoganayagi/leet/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TLoganayagi/leet/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/TLoganayagi/leet/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/TLoganayagi/leet/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/TLoganayagi/leet/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TLoganayagi/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TLoganayagi/leet/tree/master/0048-rotate-image) |
+| [0898-transpose-matrix](https://github.com/TLoganayagi/leet/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TLoganayagi/leet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/TLoganayagi/leet/tree/master/1677-matrix-diagonal-sum) |
 ## Math
