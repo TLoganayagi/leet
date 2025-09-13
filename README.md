@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/TLoganayagi/leet/tree/master/2048-build-array-from-permutation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TLoganayagi/leet/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TLoganayagi/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TLoganayagi/leet/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TLoganayagi/leet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/TLoganayagi/leet/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/TLoganayagi/leet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/TLoganayagi/leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/TLoganayagi/leet/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/TLoganayagi/leet/tree/master/1970-sorting-the-sentence) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TLoganayagi/leet/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/TLoganayagi/leet/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TLoganayagi/leet/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/TLoganayagi/leet/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/TLoganayagi/leet/tree/master/2032-largest-odd-number-in-string) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TLoganayagi/leet/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## String Matching
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TLoganayagi/leet/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Simulation
 |  |
 | ------- |
