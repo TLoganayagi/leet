@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/TLoganayagi/leet/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TLoganayagi/leet/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TLoganayagi/leet/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/TLoganayagi/leet/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TLoganayagi/leet/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TLoganayagi/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TLoganayagi/leet/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/TLoganayagi/leet/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/TLoganayagi/leet/tree/master/2032-largest-odd-number-in-string) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/TLoganayagi/leet/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TLoganayagi/leet/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## String Matching
 |  |
