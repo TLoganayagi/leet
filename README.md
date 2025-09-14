@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/TLoganayagi/leet/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TLoganayagi/leet/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TLoganayagi/leet/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/TLoganayagi/leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TLoganayagi/leet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/TLoganayagi/leet/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TLoganayagi/leet/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TLoganayagi/leet/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/TLoganayagi/leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/TLoganayagi/leet/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
 ## Two Pointers
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-minimum-moves-to-convert-string](https://github.com/TLoganayagi/leet/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TLoganayagi/leet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/TLoganayagi/leet/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/TLoganayagi/leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/TLoganayagi/leet/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/TLoganayagi/leet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TLoganayagi/leet/tree/master/2231-find-first-palindromic-string-in-the-array) |
