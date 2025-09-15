@@ -1,21 +1,16 @@
 class Solution {
 public:
     vector<string> cellsInRange(string s) {
-        vector<string> res;
-        char col1=s[0];
-        char col2=s[3];
-        char row1=s[1];
-        char row2=s[4];
-        for(char c=col1;c<=col2;c++)
-        {
-            for(int r=row1;r<=row2;r++)
-            {
-                string temp="";
-                temp+=c;
-                temp+=r;
-                res.push_back(temp);
+        vector<string> result;
+
+        for (int col = s[0]; col <= s[3]; col++) {
+            for (int row = s[1]; row <= s[4]; row++) {
+                string cell;
+                cell += col;
+                cell += row;
+                result.push_back(cell);
             }
         }
-        return res;   
+        return result;
     }
 };
