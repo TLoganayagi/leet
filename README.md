@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/TLoganayagi/leet/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/TLoganayagi/leet/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/TLoganayagi/leet/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/TLoganayagi/leet/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2401-count-asterisks](https://github.com/TLoganayagi/leet/tree/master/2401-count-asterisks) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TLoganayagi/leet/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TLoganayagi/leet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TLoganayagi/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/TLoganayagi/leet/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/TLoganayagi/leet/tree/master/2361-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
