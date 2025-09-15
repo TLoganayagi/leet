@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/TLoganayagi/leet/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/TLoganayagi/leet/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/TLoganayagi/leet/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/TLoganayagi/leet/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2401-count-asterisks](https://github.com/TLoganayagi/leet/tree/master/2401-count-asterisks) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TLoganayagi/leet/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/TLoganayagi/leet/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TLoganayagi/leet/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/TLoganayagi/leet/tree/master/2154-minimum-moves-to-convert-string) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/TLoganayagi/leet/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## String Matching
 |  |
 | ------- |
