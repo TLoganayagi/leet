@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TLoganayagi/leet/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/TLoganayagi/leet/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/TLoganayagi/leet/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/TLoganayagi/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/TLoganayagi/leet/tree/master/1293-three-consecutive-odds) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/TLoganayagi/leet/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/TLoganayagi/leet/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1472-increasing-decreasing-string](https://github.com/TLoganayagi/leet/tree/master/1472-increasing-decreasing-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TLoganayagi/leet/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/TLoganayagi/leet/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/TLoganayagi/leet/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/TLoganayagi/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/TLoganayagi/leet/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/TLoganayagi/leet/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/TLoganayagi/leet/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1156-occurrences-after-bigram](https://github.com/TLoganayagi/leet/tree/master/1156-occurrences-after-bigram) |
 | [1205-defanging-an-ip-address](https://github.com/TLoganayagi/leet/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/TLoganayagi/leet/tree/master/1264-maximum-number-of-words-you-can-type) |
