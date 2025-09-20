@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/TLoganayagi/leet/tree/master/0476-number-complement) |
 | [0899-binary-gap](https://github.com/TLoganayagi/leet/tree/master/0899-binary-gap) |
+| [1054-complement-of-base-10-integer](https://github.com/TLoganayagi/leet/tree/master/1054-complement-of-base-10-integer) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
