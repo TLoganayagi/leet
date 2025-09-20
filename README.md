@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
+| [0807-custom-sort-string](https://github.com/TLoganayagi/leet/tree/master/0807-custom-sort-string) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/TLoganayagi/leet/tree/master/1256-rank-transform-of-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
+| [0807-custom-sort-string](https://github.com/TLoganayagi/leet/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
+| [0807-custom-sort-string](https://github.com/TLoganayagi/leet/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
 | [0851-goat-latin](https://github.com/TLoganayagi/leet/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/TLoganayagi/leet/tree/master/0857-positions-of-large-groups) |
