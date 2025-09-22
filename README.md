@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/TLoganayagi/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/TLoganayagi/leet/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/TLoganayagi/leet/tree/master/0476-number-complement) |
 | [0899-binary-gap](https://github.com/TLoganayagi/leet/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/TLoganayagi/leet/tree/master/1054-complement-of-base-10-integer) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/TLoganayagi/leet/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/TLoganayagi/leet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/TLoganayagi/leet/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/TLoganayagi/leet/tree/master/0830-largest-triangle-area) |
 | [0944-smallest-range-i](https://github.com/TLoganayagi/leet/tree/master/0944-smallest-range-i) |
