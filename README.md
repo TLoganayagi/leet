@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/TLoganayagi/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/TLoganayagi/leet/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/TLoganayagi/leet/tree/master/1319-unique-number-of-occurrences) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TLoganayagi/leet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TLoganayagi/leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TLoganayagi/leet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/TLoganayagi/leet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TLoganayagi/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TLoganayagi/leet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/TLoganayagi/leet/tree/master/1858-latest-time-by-replacing-hidden-digits) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/TLoganayagi/leet/tree/master/0830-largest-triangle-area) |
 | [0944-smallest-range-i](https://github.com/TLoganayagi/leet/tree/master/0944-smallest-range-i) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TLoganayagi/leet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TLoganayagi/leet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/TLoganayagi/leet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/TLoganayagi/leet/tree/master/1430-find-the-k-beauty-of-a-number) |
