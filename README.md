@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/TLoganayagi/leet/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1848-sum-of-unique-elements](https://github.com/TLoganayagi/leet/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TLoganayagi/leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/TLoganayagi/leet/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/TLoganayagi/leet/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/TLoganayagi/leet/tree/master/1944-truncate-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/TLoganayagi/leet/tree/master/2042-maximum-product-difference-between-two-pairs) |
