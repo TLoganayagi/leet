@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/TLoganayagi/leet/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/TLoganayagi/leet/tree/master/2226-rings-and-rods) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TLoganayagi/leet/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2406-decode-the-message](https://github.com/TLoganayagi/leet/tree/master/2406-decode-the-message) |
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/TLoganayagi/leet/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TLoganayagi/leet/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/TLoganayagi/leet/tree/master/2401-count-asterisks) |
+| [2406-decode-the-message](https://github.com/TLoganayagi/leet/tree/master/2406-decode-the-message) |
 | [2528-number-of-valid-clock-times](https://github.com/TLoganayagi/leet/tree/master/2528-number-of-valid-clock-times) |
 | [3312-number-of-changing-keys](https://github.com/TLoganayagi/leet/tree/master/3312-number-of-changing-keys) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TLoganayagi/leet/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
