@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TLoganayagi/leet/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TLoganayagi/leet/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/TLoganayagi/leet/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLoganayagi/leet/tree/master/0217-contains-duplicate) |
@@ -509,4 +510,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
