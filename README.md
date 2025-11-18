@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TLoganayagi/leet/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/TLoganayagi/leet/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3194-find-words-containing-character](https://github.com/TLoganayagi/leet/tree/master/3194-find-words-containing-character) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/TLoganayagi/leet/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3463-alternating-groups-i](https://github.com/TLoganayagi/leet/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/TLoganayagi/leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TLoganayagi/leet/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TLoganayagi/leet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TLoganayagi/leet/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/TLoganayagi/leet/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TLoganayagi/leet/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/TLoganayagi/leet/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TLoganayagi/leet/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/TLoganayagi/leet/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/TLoganayagi/leet/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/TLoganayagi/leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TLoganayagi/leet/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/TLoganayagi/leet/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/TLoganayagi/leet/tree/master/2442-number-of-arithmetic-triplets) |
 | [2528-number-of-valid-clock-times](https://github.com/TLoganayagi/leet/tree/master/2528-number-of-valid-clock-times) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/TLoganayagi/leet/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Geometry
 |  |
 | ------- |
