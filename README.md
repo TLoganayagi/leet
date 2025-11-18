@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/TLoganayagi/leet/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/TLoganayagi/leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TLoganayagi/leet/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/TLoganayagi/leet/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/TLoganayagi/leet/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/TLoganayagi/leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TLoganayagi/leet/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/TLoganayagi/leet/tree/master/3973-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TLoganayagi/leet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/TLoganayagi/leet/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/TLoganayagi/leet/tree/master/1791-richest-customer-wealth) |
+| [3973-flip-square-submatrix-vertically](https://github.com/TLoganayagi/leet/tree/master/3973-flip-square-submatrix-vertically) |
 ## Math
 |  |
 | ------- |
