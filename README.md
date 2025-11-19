@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TLoganayagi/leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/TLoganayagi/leet/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/TLoganayagi/leet/tree/master/1899-count-items-matching-a-rule) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/TLoganayagi/leet/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/TLoganayagi/leet/tree/master/1944-truncate-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/TLoganayagi/leet/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/TLoganayagi/leet/tree/master/2048-build-array-from-permutation) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1829-maximum-units-on-a-truck](https://github.com/TLoganayagi/leet/tree/master/1829-maximum-units-on-a-truck) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/TLoganayagi/leet/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/TLoganayagi/leet/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/TLoganayagi/leet/tree/master/2032-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/TLoganayagi/leet/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TLoganayagi/leet/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
