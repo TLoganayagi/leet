@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/TLoganayagi/leet/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/TLoganayagi/leet/tree/master/1904-second-largest-digit-in-a-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/TLoganayagi/leet/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TLoganayagi/leet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TLoganayagi/leet/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/TLoganayagi/leet/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/TLoganayagi/leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TLoganayagi/leet/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TLoganayagi/leet/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/TLoganayagi/leet/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1944-truncate-sentence](https://github.com/TLoganayagi/leet/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/TLoganayagi/leet/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TLoganayagi/leet/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -522,12 +524,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/TLoganayagi/leet/tree/master/1839-decode-xored-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/TLoganayagi/leet/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/TLoganayagi/leet/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TLoganayagi/leet/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/TLoganayagi/leet/tree/master/1833-find-the-highest-altitude) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/TLoganayagi/leet/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
 | ------- |
