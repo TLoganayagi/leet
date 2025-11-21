@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TLoganayagi/leet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/TLoganayagi/leet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
+| [2678-number-of-senior-citizens](https://github.com/TLoganayagi/leet/tree/master/2678-number-of-senior-citizens) |
 | [2698-find-the-array-concatenation-value](https://github.com/TLoganayagi/leet/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TLoganayagi/leet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/TLoganayagi/leet/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/TLoganayagi/leet/tree/master/2418-sort-the-people) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/TLoganayagi/leet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2528-number-of-valid-clock-times](https://github.com/TLoganayagi/leet/tree/master/2528-number-of-valid-clock-times) |
+| [2678-number-of-senior-citizens](https://github.com/TLoganayagi/leet/tree/master/2678-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/TLoganayagi/leet/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3194-find-words-containing-character](https://github.com/TLoganayagi/leet/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/TLoganayagi/leet/tree/master/3312-number-of-changing-keys) |
