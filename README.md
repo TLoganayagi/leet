@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/TLoganayagi/leet/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/TLoganayagi/leet/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/TLoganayagi/leet/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2864-maximum-odd-binary-number](https://github.com/TLoganayagi/leet/tree/master/2864-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/TLoganayagi/leet/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/TLoganayagi/leet/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TLoganayagi/leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/TLoganayagi/leet/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/TLoganayagi/leet/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/TLoganayagi/leet/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2864-maximum-odd-binary-number](https://github.com/TLoganayagi/leet/tree/master/2864-maximum-odd-binary-number) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TLoganayagi/leet/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## String Matching
 |  |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/TLoganayagi/leet/tree/master/2032-largest-odd-number-in-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/TLoganayagi/leet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/TLoganayagi/leet/tree/master/2630-alternating-digit-sum) |
+| [2864-maximum-odd-binary-number](https://github.com/TLoganayagi/leet/tree/master/2864-maximum-odd-binary-number) |
 ## Sliding Window
 |  |
 | ------- |
