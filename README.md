@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TLoganayagi/leet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/TLoganayagi/leet/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3146-permutation-difference-between-two-strings](https://github.com/TLoganayagi/leet/tree/master/3146-permutation-difference-between-two-strings) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TLoganayagi/leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/TLoganayagi/leet/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/TLoganayagi/leet/tree/master/2864-maximum-odd-binary-number) |
 | [3110-score-of-a-string](https://github.com/TLoganayagi/leet/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/TLoganayagi/leet/tree/master/3146-permutation-difference-between-two-strings) |
 | [3194-find-words-containing-character](https://github.com/TLoganayagi/leet/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/TLoganayagi/leet/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TLoganayagi/leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
