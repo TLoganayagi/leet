@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/TLoganayagi/leet/tree/master/3312-number-of-changing-keys) |
 | [3340-check-balanced-string](https://github.com/TLoganayagi/leet/tree/master/3340-check-balanced-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TLoganayagi/leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TLoganayagi/leet/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TLoganayagi/leet/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/TLoganayagi/leet/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/TLoganayagi/leet/tree/master/2698-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/TLoganayagi/leet/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3248-snake-in-matrix](https://github.com/TLoganayagi/leet/tree/master/3248-snake-in-matrix) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TLoganayagi/leet/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/TLoganayagi/leet/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/TLoganayagi/leet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/TLoganayagi/leet/tree/master/2630-alternating-digit-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/TLoganayagi/leet/tree/master/2864-maximum-odd-binary-number) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TLoganayagi/leet/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -612,4 +615,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TLoganayagi/leet/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TLoganayagi/leet/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
