@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/TLoganayagi/leet/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/TLoganayagi/leet/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/TLoganayagi/leet/tree/master/2350-find-closest-number-to-zero) |
+| [2418-sort-the-people](https://github.com/TLoganayagi/leet/tree/master/2418-sort-the-people) |
 | [2442-number-of-arithmetic-triplets](https://github.com/TLoganayagi/leet/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/TLoganayagi/leet/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/TLoganayagi/leet/tree/master/2551-apply-operations-to-an-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TLoganayagi/leet/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/TLoganayagi/leet/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/TLoganayagi/leet/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/TLoganayagi/leet/tree/master/2418-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/TLoganayagi/leet/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/TLoganayagi/leet/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TLoganayagi/leet/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/TLoganayagi/leet/tree/master/2226-rings-and-rods) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TLoganayagi/leet/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/TLoganayagi/leet/tree/master/2406-decode-the-message) |
+| [2418-sort-the-people](https://github.com/TLoganayagi/leet/tree/master/2418-sort-the-people) |
 | [2442-number-of-arithmetic-triplets](https://github.com/TLoganayagi/leet/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/TLoganayagi/leet/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/TLoganayagi/leet/tree/master/2561-number-of-distinct-averages) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TLoganayagi/leet/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/TLoganayagi/leet/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/TLoganayagi/leet/tree/master/2406-decode-the-message) |
+| [2418-sort-the-people](https://github.com/TLoganayagi/leet/tree/master/2418-sort-the-people) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/TLoganayagi/leet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2528-number-of-valid-clock-times](https://github.com/TLoganayagi/leet/tree/master/2528-number-of-valid-clock-times) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/TLoganayagi/leet/tree/master/2816-lexicographically-smallest-palindrome) |
