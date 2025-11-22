@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/TLoganayagi/leet/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/TLoganayagi/leet/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TLoganayagi/leet/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/TLoganayagi/leet/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3194-find-words-containing-character](https://github.com/TLoganayagi/leet/tree/master/3194-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/TLoganayagi/leet/tree/master/3248-snake-in-matrix) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/TLoganayagi/leet/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/TLoganayagi/leet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/TLoganayagi/leet/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TLoganayagi/leet/tree/master/3146-permutation-difference-between-two-strings) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TLoganayagi/leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/TLoganayagi/leet/tree/master/3541-find-most-frequent-vowel-and-consonant) |
