@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/TLoganayagi/leet/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/TLoganayagi/leet/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/TLoganayagi/leet/tree/master/1054-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TLoganayagi/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/TLoganayagi/leet/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TLoganayagi/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/TLoganayagi/leet/tree/master/1839-decode-xored-array) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/TLoganayagi/leet/tree/master/0830-largest-triangle-area) |
 | [0944-smallest-range-i](https://github.com/TLoganayagi/leet/tree/master/0944-smallest-range-i) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TLoganayagi/leet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TLoganayagi/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/TLoganayagi/leet/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TLoganayagi/leet/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/TLoganayagi/leet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
