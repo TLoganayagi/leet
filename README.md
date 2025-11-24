@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TLoganayagi/leet/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/TLoganayagi/leet/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/TLoganayagi/leet/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/TLoganayagi/leet/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TLoganayagi/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/TLoganayagi/leet/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/TLoganayagi/leet/tree/master/0263-ugly-number) |
@@ -663,12 +664,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/TLoganayagi/leet/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/TLoganayagi/leet/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/TLoganayagi/leet/tree/master/0062-unique-paths) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TLoganayagi/leet/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
