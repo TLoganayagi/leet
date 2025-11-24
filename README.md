@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/TLoganayagi/leet/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/TLoganayagi/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/TLoganayagi/leet/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/TLoganayagi/leet/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/TLoganayagi/leet/tree/master/0777-toeplitz-matrix) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/TLoganayagi/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/TLoganayagi/leet/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/TLoganayagi/leet/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TLoganayagi/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TLoganayagi/leet/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/TLoganayagi/leet/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/TLoganayagi/leet/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TLoganayagi/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
