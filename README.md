@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TLoganayagi/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/TLoganayagi/leet/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TLoganayagi/leet/tree/master/0540-single-element-in-a-sorted-array) |
