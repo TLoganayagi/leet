@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/TLoganayagi/leet/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0636-exclusive-time-of-functions](https://github.com/TLoganayagi/leet/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/TLoganayagi/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/TLoganayagi/leet/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TLoganayagi/leet/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TLoganayagi/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/TLoganayagi/leet/tree/master/0636-exclusive-time-of-functions) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TLoganayagi/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TLoganayagi/leet/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
