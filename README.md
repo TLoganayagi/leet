@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/TLoganayagi/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/TLoganayagi/leet/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/TLoganayagi/leet/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0746-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/TLoganayagi/leet/tree/master/0777-toeplitz-matrix) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/TLoganayagi/leet/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
