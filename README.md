@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/TLoganayagi/leet/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/TLoganayagi/leet/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TLoganayagi/leet/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/TLoganayagi/leet/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/TLoganayagi/leet/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TLoganayagi/leet/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/TLoganayagi/leet/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/TLoganayagi/leet/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/TLoganayagi/leet/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TLoganayagi/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
