@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/TLoganayagi/leet/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/TLoganayagi/leet/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/TLoganayagi/leet/tree/master/0777-toeplitz-matrix) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/TLoganayagi/leet/tree/master/0645-set-mismatch) |
 | [0807-custom-sort-string](https://github.com/TLoganayagi/leet/tree/master/0807-custom-sort-string) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/TLoganayagi/leet/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/TLoganayagi/leet/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
 | [0807-custom-sort-string](https://github.com/TLoganayagi/leet/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/TLoganayagi/leet/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/TLoganayagi/leet/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/TLoganayagi/leet/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/TLoganayagi/leet/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/TLoganayagi/leet/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/TLoganayagi/leet/tree/master/1054-complement-of-base-10-integer) |
