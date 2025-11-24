@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TLoganayagi/leet/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/TLoganayagi/leet/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/TLoganayagi/leet/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/TLoganayagi/leet/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/TLoganayagi/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/TLoganayagi/leet/tree/master/1293-three-consecutive-odds) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TLoganayagi/leet/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/TLoganayagi/leet/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/TLoganayagi/leet/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/TLoganayagi/leet/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/TLoganayagi/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/TLoganayagi/leet/tree/master/1264-maximum-number-of-words-you-can-type) |
