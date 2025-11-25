@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/TLoganayagi/leet/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/TLoganayagi/leet/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/TLoganayagi/leet/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/TLoganayagi/leet/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/TLoganayagi/leet/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/TLoganayagi/leet/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/TLoganayagi/leet/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
