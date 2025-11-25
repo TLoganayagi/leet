@@ -2,10 +2,11 @@ class Solution {
 public:
     int compress(vector<char>& chars) {
         vector<char> res;
-        for (int i = 0; i < chars.size();) {
+        int n=chars.size();
+        for (int i = 0; i < n;) {
             char letter = chars[i];
             int count = 0;
-            while (i < chars.size() && chars[i] == letter) {
+            while (i<n && chars[i] == letter) {
                 i++;
                 count++;
             }
