@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/TLoganayagi/leet/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/TLoganayagi/leet/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/TLoganayagi/leet/tree/master/1677-matrix-diagonal-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/TLoganayagi/leet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TLoganayagi/leet/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TLoganayagi/leet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TLoganayagi/leet/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TLoganayagi/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/TLoganayagi/leet/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/TLoganayagi/leet/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/TLoganayagi/leet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TLoganayagi/leet/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TLoganayagi/leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/TLoganayagi/leet/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TLoganayagi/leet/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/TLoganayagi/leet/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/TLoganayagi/leet/tree/master/1635-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/TLoganayagi/leet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TLoganayagi/leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/TLoganayagi/leet/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1760-check-array-formation-through-concatenation](https://github.com/TLoganayagi/leet/tree/master/1760-check-array-formation-through-concatenation) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/TLoganayagi/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/TLoganayagi/leet/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/TLoganayagi/leet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TLoganayagi/leet/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/TLoganayagi/leet/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/TLoganayagi/leet/tree/master/2442-number-of-arithmetic-triplets) |
