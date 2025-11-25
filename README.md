@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/TLoganayagi/leet/tree/master/1929-concatenation-of-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/TLoganayagi/leet/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/TLoganayagi/leet/tree/master/1944-truncate-sentence) |
+| [1995-count-special-quadruplets](https://github.com/TLoganayagi/leet/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/TLoganayagi/leet/tree/master/2032-two-out-of-three) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/TLoganayagi/leet/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/TLoganayagi/leet/tree/master/2048-build-array-from-permutation) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TLoganayagi/leet/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TLoganayagi/leet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TLoganayagi/leet/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [1995-count-special-quadruplets](https://github.com/TLoganayagi/leet/tree/master/1995-count-special-quadruplets) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/TLoganayagi/leet/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-two-out-of-three](https://github.com/TLoganayagi/leet/tree/master/2032-two-out-of-three) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TLoganayagi/leet/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/TLoganayagi/leet/tree/master/1656-count-good-triplets) |
+| [1995-count-special-quadruplets](https://github.com/TLoganayagi/leet/tree/master/1995-count-special-quadruplets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/TLoganayagi/leet/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/TLoganayagi/leet/tree/master/2442-number-of-arithmetic-triplets) |
 | [2528-number-of-valid-clock-times](https://github.com/TLoganayagi/leet/tree/master/2528-number-of-valid-clock-times) |
