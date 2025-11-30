@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/TLoganayagi/leet/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TLoganayagi/leet/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/TLoganayagi/leet/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/TLoganayagi/leet/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3194-find-words-containing-character](https://github.com/TLoganayagi/leet/tree/master/3194-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/TLoganayagi/leet/tree/master/3248-snake-in-matrix) |
