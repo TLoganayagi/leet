@@ -33,6 +33,9 @@ public:
                 cur=cur->next;
             }
         }
-        return dummy->next;
+        //return dummy->next;
+        ListNode* newhead=dummy->next;
+        delete dummy;
+        return newhead;
     }
 };
