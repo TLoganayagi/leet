@@ -26,6 +26,8 @@ public:
                 cur=cur->next;
             }
         }
-        return dummy->next;
+        ListNode* newHead = dummy->next;
+        delete dummy;
+        return newHead;
     }
 };
