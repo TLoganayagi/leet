@@ -6,10 +6,7 @@ public:
         {
             if(c=='*')
             {
-                if(!res.empty())
-                {
-                    res.pop_back();
-                }
+                res.pop_back();
             }
             else
             {
