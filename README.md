@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2361-calculate-digit-sum-of-a-string](https://github.com/TLoganayagi/leet/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/TLoganayagi/leet/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TLoganayagi/leet/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2390-removing-stars-from-a-string](https://github.com/TLoganayagi/leet/tree/master/2390-removing-stars-from-a-string) |
 | [2401-count-asterisks](https://github.com/TLoganayagi/leet/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/TLoganayagi/leet/tree/master/2406-decode-the-message) |
 | [2418-sort-the-people](https://github.com/TLoganayagi/leet/tree/master/2418-sort-the-people) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TLoganayagi/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/TLoganayagi/leet/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/TLoganayagi/leet/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/TLoganayagi/leet/tree/master/2390-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/TLoganayagi/leet/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/TLoganayagi/leet/tree/master/2698-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/TLoganayagi/leet/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/TLoganayagi/leet/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TLoganayagi/leet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TLoganayagi/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/TLoganayagi/leet/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
