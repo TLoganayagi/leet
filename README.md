@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/TLoganayagi/leet/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/TLoganayagi/leet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/TLoganayagi/leet/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2351-first-letter-to-appear-twice](https://github.com/TLoganayagi/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TLoganayagi/leet/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TLoganayagi/leet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/TLoganayagi/leet/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/TLoganayagi/leet/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-rings-and-rods](https://github.com/TLoganayagi/leet/tree/master/2226-rings-and-rods) |
+| [2351-first-letter-to-appear-twice](https://github.com/TLoganayagi/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TLoganayagi/leet/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/TLoganayagi/leet/tree/master/2406-decode-the-message) |
 | [2418-sort-the-people](https://github.com/TLoganayagi/leet/tree/master/2418-sort-the-people) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/TLoganayagi/leet/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/TLoganayagi/leet/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TLoganayagi/leet/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/TLoganayagi/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/TLoganayagi/leet/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/TLoganayagi/leet/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TLoganayagi/leet/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/TLoganayagi/leet/tree/master/1839-decode-xored-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TLoganayagi/leet/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2032-two-out-of-three](https://github.com/TLoganayagi/leet/tree/master/2032-two-out-of-three) |
+| [2351-first-letter-to-appear-twice](https://github.com/TLoganayagi/leet/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
