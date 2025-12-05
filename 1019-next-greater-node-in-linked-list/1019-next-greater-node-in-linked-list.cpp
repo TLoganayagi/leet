@@ -12,11 +12,11 @@ class Solution {
 public:
     vector<int> nextLargerNodes(ListNode* head) {
         vector<int> res;
-        ListNode* cur=head;
-        while(cur)
+        //ListNode* cur=head;
+        while(head)
         {
-            res.push_back(cur->val);
-            cur=cur->next;
+            res.push_back(head->val);
+            head=head->next;
         }
         int n=res.size();
         vector<int> out(n,0);
