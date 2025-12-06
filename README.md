@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/TLoganayagi/leet/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/TLoganayagi/leet/tree/master/0645-set-mismatch) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/TLoganayagi/leet/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/TLoganayagi/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/TLoganayagi/leet/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/TLoganayagi/leet/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/TLoganayagi/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TLoganayagi/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/TLoganayagi/leet/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/TLoganayagi/leet/tree/master/0575-distribute-candies) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/TLoganayagi/leet/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/TLoganayagi/leet/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/TLoganayagi/leet/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/TLoganayagi/leet/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
@@ -757,4 +761,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/TLoganayagi/leet/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/TLoganayagi/leet/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/TLoganayagi/leet/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
