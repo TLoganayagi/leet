@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/TLoganayagi/leet/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/TLoganayagi/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/TLoganayagi/leet/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/TLoganayagi/leet/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/TLoganayagi/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TLoganayagi/leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/TLoganayagi/leet/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/TLoganayagi/leet/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/TLoganayagi/leet/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/TLoganayagi/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/TLoganayagi/leet/tree/master/0443-string-compression) |
@@ -750,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/TLoganayagi/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/TLoganayagi/leet/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/TLoganayagi/leet/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TLoganayagi/leet/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
