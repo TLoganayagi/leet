@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/TLoganayagi/leet/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/TLoganayagi/leet/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TLoganayagi/leet/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/TLoganayagi/leet/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/TLoganayagi/leet/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/TLoganayagi/leet/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TLoganayagi/leet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/TLoganayagi/leet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/TLoganayagi/leet/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/TLoganayagi/leet/tree/master/0338-counting-bits) |
