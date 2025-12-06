@@ -1,20 +1,20 @@
 class Solution {
 public:
-    void to_upper(string &s)
+    /*void to_upper(string &s)
     {
         for(char &c:s)
         {
             c=toupper(c);
         }
-    }
+    }*/
     string licenseKeyFormatting(string s, int k) {
         string temp="";
         for(char c:s)
         {
             if(c!='-')
-                temp+=c;
+                temp+=toupper(c);
         }
-        to_upper(temp);
+        //to_upper(temp);
         int n=temp.size();
         if(n==0)    return"";
         int y=n%k;
