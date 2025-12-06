@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/TLoganayagi/leet/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/TLoganayagi/leet/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/TLoganayagi/leet/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/TLoganayagi/leet/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TLoganayagi/leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/TLoganayagi/leet/tree/master/0680-valid-palindrome-ii) |
