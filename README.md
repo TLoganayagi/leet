@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/TLoganayagi/leet/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TLoganayagi/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
+| [1323-maximum-69-number](https://github.com/TLoganayagi/leet/tree/master/1323-maximum-69-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TLoganayagi/leet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/TLoganayagi/leet/tree/master/0944-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/TLoganayagi/leet/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TLoganayagi/leet/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/TLoganayagi/leet/tree/master/1323-maximum-69-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TLoganayagi/leet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TLoganayagi/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/TLoganayagi/leet/tree/master/1378-cells-with-odd-values-in-a-matrix) |
