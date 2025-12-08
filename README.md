@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/TLoganayagi/leet/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TLoganayagi/leet/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TLoganayagi/leet/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1925-count-square-sum-triples](https://github.com/TLoganayagi/leet/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/TLoganayagi/leet/tree/master/2032-largest-odd-number-in-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/TLoganayagi/leet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/TLoganayagi/leet/tree/master/2630-alternating-digit-sum) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/TLoganayagi/leet/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/TLoganayagi/leet/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/TLoganayagi/leet/tree/master/1995-count-special-quadruplets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/TLoganayagi/leet/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/TLoganayagi/leet/tree/master/2442-number-of-arithmetic-triplets) |
