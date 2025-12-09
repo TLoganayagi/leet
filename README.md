@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TLoganayagi/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/TLoganayagi/leet/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/TLoganayagi/leet/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/TLoganayagi/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TLoganayagi/leet/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TLoganayagi/leet/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/TLoganayagi/leet/tree/master/0200-number-of-islands) |
 | [0777-toeplitz-matrix](https://github.com/TLoganayagi/leet/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/TLoganayagi/leet/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TLoganayagi/leet/tree/master/0898-transpose-matrix) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/TLoganayagi/leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TLoganayagi/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TLoganayagi/leet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/TLoganayagi/leet/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TLoganayagi/leet/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -808,10 +811,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TLoganayagi/leet/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/TLoganayagi/leet/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TLoganayagi/leet/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TLoganayagi/leet/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TLoganayagi/leet/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
 |  |
