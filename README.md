@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/TLoganayagi/leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TLoganayagi/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TLoganayagi/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/TLoganayagi/leet/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TLoganayagi/leet/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/TLoganayagi/leet/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/TLoganayagi/leet/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/TLoganayagi/leet/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/TLoganayagi/leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/TLoganayagi/leet/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TLoganayagi/leet/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/TLoganayagi/leet/tree/master/3973-flip-square-submatrix-vertically) |
 ## String
