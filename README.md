@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/TLoganayagi/leet/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/TLoganayagi/leet/tree/master/0861-flipping-an-image) |
+| [0877-stone-game](https://github.com/TLoganayagi/leet/tree/master/0877-stone-game) |
 | [0898-transpose-matrix](https://github.com/TLoganayagi/leet/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [0944-smallest-range-i](https://github.com/TLoganayagi/leet/tree/master/0944-smallest-range-i) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/TLoganayagi/leet/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/TLoganayagi/leet/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/TLoganayagi/leet/tree/master/0877-stone-game) |
 | [0944-smallest-range-i](https://github.com/TLoganayagi/leet/tree/master/0944-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/TLoganayagi/leet/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TLoganayagi/leet/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/TLoganayagi/leet/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/TLoganayagi/leet/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/TLoganayagi/leet/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TLoganayagi/leet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Combinatorics
@@ -838,4 +841,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/TLoganayagi/leet/tree/master/1971-find-if-path-exists-in-graph) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/TLoganayagi/leet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
