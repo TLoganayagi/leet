@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/TLoganayagi/leet/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/TLoganayagi/leet/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/TLoganayagi/leet/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TLoganayagi/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TLoganayagi/leet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TLoganayagi/leet/tree/master/0202-happy-number) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/TLoganayagi/leet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/TLoganayagi/leet/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/TLoganayagi/leet/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0746-min-cost-climbing-stairs) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/TLoganayagi/leet/tree/master/1137-n-th-tribonacci-number) |
 ## Linked List
 |  |
