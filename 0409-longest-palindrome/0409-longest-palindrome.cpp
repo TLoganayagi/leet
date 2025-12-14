@@ -1,28 +1,42 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        unordered_map<char,int> um1;
-        if(s.empty())   return 0;
+        if(s.size()==1) return 1;
+        unordered_map<char,int> mp;
         for(char c:s)
         {
-            um1[c]++;
+            mp[c]++;
         }
-        int res=0;
-        bool one=false;
-        for(auto &p:um1)
+        int count=0;
+        bool flag=false;
+        bool flag2=false;
+        for(auto &p:mp)
         {
-            if((p.second) % 2 ==0)
+            if(p.second %2==0)
             {
-                res+=p.second;
+                count+=p.second;
             }
-            else
+            else if(p.second>2 && p.second %2 !=0)
             {
-                res+=p.second-1;
-                one=true;
+                if(flag==false)
+                {
+                    count+=p.second;
+                    flag=true;
+                }
+                else
+                {
+                    count+=p.second-1;
+                }
+            }
+            else if(p.second<2)
+            {
+                flag2=true;
             }
         }
-        if (one)    res+=1;
-        return res;
-        
+        if(flag==false && flag2==true)
+        {
+            count++;
+        }
+        return count;   
     }
 };
