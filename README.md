@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/TLoganayagi/leet/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/TLoganayagi/leet/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/TLoganayagi/leet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/TLoganayagi/leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TLoganayagi/leet/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/TLoganayagi/leet/tree/master/0165-compare-version-numbers) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/TLoganayagi/leet/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/TLoganayagi/leet/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/TLoganayagi/leet/tree/master/0874-backspace-string-compare) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/TLoganayagi/leet/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/TLoganayagi/leet/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/TLoganayagi/leet/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/TLoganayagi/leet/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/TLoganayagi/leet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0070-climbing-stairs) |
