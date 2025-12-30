@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/TLoganayagi/leet/tree/master/1619-path-crossing) |
 | [1651-shuffle-string](https://github.com/TLoganayagi/leet/tree/master/1651-shuffle-string) |
 | [1660-thousand-separator](https://github.com/TLoganayagi/leet/tree/master/1660-thousand-separator) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TLoganayagi/leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/TLoganayagi/leet/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/TLoganayagi/leet/tree/master/1714-rearrange-spaces-between-words) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/TLoganayagi/leet/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TLoganayagi/leet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/TLoganayagi/leet/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TLoganayagi/leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1829-maximum-units-on-a-truck](https://github.com/TLoganayagi/leet/tree/master/1829-maximum-units-on-a-truck) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/TLoganayagi/leet/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/TLoganayagi/leet/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
