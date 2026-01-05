@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/TLoganayagi/leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/TLoganayagi/leet/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TLoganayagi/leet/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/TLoganayagi/leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/TLoganayagi/leet/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TLoganayagi/leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TLoganayagi/leet/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TLoganayagi/leet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/TLoganayagi/leet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TLoganayagi/leet/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/TLoganayagi/leet/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/TLoganayagi/leet/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/TLoganayagi/leet/tree/master/0443-string-compression) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/TLoganayagi/leet/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/TLoganayagi/leet/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/TLoganayagi/leet/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TLoganayagi/leet/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/TLoganayagi/leet/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/TLoganayagi/leet/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/TLoganayagi/leet/tree/master/0476-number-complement) |
