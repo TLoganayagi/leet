@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0746-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/TLoganayagi/leet/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/TLoganayagi/leet/tree/master/0777-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/TLoganayagi/leet/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0819-most-common-word](https://github.com/TLoganayagi/leet/tree/master/0819-most-common-word) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/TLoganayagi/leet/tree/master/0830-largest-triangle-area) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/TLoganayagi/leet/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/TLoganayagi/leet/tree/master/0680-valid-palindrome-ii) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/TLoganayagi/leet/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TLoganayagi/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
 | [1323-maximum-69-number](https://github.com/TLoganayagi/leet/tree/master/1323-maximum-69-number) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/TLoganayagi/leet/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TLoganayagi/leet/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/TLoganayagi/leet/tree/master/0777-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/TLoganayagi/leet/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/TLoganayagi/leet/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TLoganayagi/leet/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TLoganayagi/leet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
