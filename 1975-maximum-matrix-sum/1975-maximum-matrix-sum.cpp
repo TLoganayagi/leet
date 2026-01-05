@@ -4,18 +4,16 @@ public:
         long long sum = 0;
         int negCount = 0;
         int minAbs = INT_MAX;
+
         for (auto& row : matrix) {
-            for (int x : row) {
-                sum += abs(x);
-                minAbs = min(minAbs, abs(x));
-                if (x < 0)
-                    negCount++;
-            }
+            sum += accumulate(row.begin(), row.end(), 0LL,
+                [&](long long acc, int x) {
+                    minAbs = min(minAbs, abs(x));
+                    if (x < 0) negCount++;
+                    return acc + abs(x);
+                });
         }
 
-        if (negCount % 2 == 0)
-            return sum;
-        else
-            return sum - 2LL * minAbs;
+        return (negCount % 2 == 0) ? sum : sum - 2LL * minAbs;
     }
 };
