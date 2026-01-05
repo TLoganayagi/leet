@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/TLoganayagi/leet/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/TLoganayagi/leet/tree/master/0861-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/TLoganayagi/leet/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/TLoganayagi/leet/tree/master/0877-stone-game) |
 | [0898-transpose-matrix](https://github.com/TLoganayagi/leet/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TLoganayagi/leet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/TLoganayagi/leet/tree/master/0875-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TLoganayagi/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TLoganayagi/leet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
