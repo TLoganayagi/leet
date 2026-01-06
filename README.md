@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/TLoganayagi/leet/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/TLoganayagi/leet/tree/master/1256-rank-transform-of-an-array) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TLoganayagi/leet/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1293-three-consecutive-odds](https://github.com/TLoganayagi/leet/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/TLoganayagi/leet/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TLoganayagi/leet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/TLoganayagi/leet/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/TLoganayagi/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/TLoganayagi/leet/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TLoganayagi/leet/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1319-unique-number-of-occurrences](https://github.com/TLoganayagi/leet/tree/master/1319-unique-number-of-occurrences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TLoganayagi/leet/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/TLoganayagi/leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/TLoganayagi/leet/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TLoganayagi/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/TLoganayagi/leet/tree/master/0979-di-string-match) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TLoganayagi/leet/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/TLoganayagi/leet/tree/master/1323-maximum-69-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TLoganayagi/leet/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/TLoganayagi/leet/tree/master/1341-split-a-string-in-balanced-strings) |
