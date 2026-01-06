@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/TLoganayagi/leet/tree/master/0898-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/TLoganayagi/leet/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
+| [0930-binary-subarrays-with-sum](https://github.com/TLoganayagi/leet/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-smallest-range-i](https://github.com/TLoganayagi/leet/tree/master/0944-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TLoganayagi/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/TLoganayagi/leet/tree/master/0965-unique-email-addresses) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/TLoganayagi/leet/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
+| [0930-binary-subarrays-with-sum](https://github.com/TLoganayagi/leet/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TLoganayagi/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/TLoganayagi/leet/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TLoganayagi/leet/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/TLoganayagi/leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TLoganayagi/leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/TLoganayagi/leet/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TLoganayagi/leet/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/TLoganayagi/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/TLoganayagi/leet/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/TLoganayagi/leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TLoganayagi/leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/TLoganayagi/leet/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TLoganayagi/leet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
