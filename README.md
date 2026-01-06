@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/TLoganayagi/leet/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/TLoganayagi/leet/tree/master/0877-stone-game) |
 | [0898-transpose-matrix](https://github.com/TLoganayagi/leet/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/TLoganayagi/leet/tree/master/0904-fruit-into-baskets) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [0944-smallest-range-i](https://github.com/TLoganayagi/leet/tree/master/0944-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TLoganayagi/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/TLoganayagi/leet/tree/master/0807-custom-sort-string) |
 | [0819-most-common-word](https://github.com/TLoganayagi/leet/tree/master/0819-most-common-word) |
 | [0822-unique-morse-code-words](https://github.com/TLoganayagi/leet/tree/master/0822-unique-morse-code-words) |
+| [0904-fruit-into-baskets](https://github.com/TLoganayagi/leet/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TLoganayagi/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TLoganayagi/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/TLoganayagi/leet/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/TLoganayagi/leet/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/TLoganayagi/leet/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/TLoganayagi/leet/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TLoganayagi/leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/TLoganayagi/leet/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TLoganayagi/leet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
