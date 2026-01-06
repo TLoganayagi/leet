@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TLoganayagi/leet/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/TLoganayagi/leet/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/TLoganayagi/leet/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/TLoganayagi/leet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/TLoganayagi/leet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/TLoganayagi/leet/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/TLoganayagi/leet/tree/master/0048-rotate-image) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/TLoganayagi/leet/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TLoganayagi/leet/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/TLoganayagi/leet/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TLoganayagi/leet/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/TLoganayagi/leet/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/TLoganayagi/leet/tree/master/0165-compare-version-numbers) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TLoganayagi/leet/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/TLoganayagi/leet/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TLoganayagi/leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TLoganayagi/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TLoganayagi/leet/tree/master/0145-binary-tree-postorder-traversal) |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TLoganayagi/leet/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/TLoganayagi/leet/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/TLoganayagi/leet/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TLoganayagi/leet/tree/master/1019-next-greater-node-in-linked-list) |
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/TLoganayagi/leet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TLoganayagi/leet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/TLoganayagi/leet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TLoganayagi/leet/tree/master/0070-climbing-stairs) |
