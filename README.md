@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TLoganayagi/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TLoganayagi/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/TLoganayagi/leet/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3668-restore-finishing-order](https://github.com/TLoganayagi/leet/tree/master/3668-restore-finishing-order) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TLoganayagi/leet/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/TLoganayagi/leet/tree/master/3973-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TLoganayagi/leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/TLoganayagi/leet/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/TLoganayagi/leet/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/TLoganayagi/leet/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
