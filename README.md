@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/TLoganayagi/leet/tree/master/3248-snake-in-matrix) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/TLoganayagi/leet/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TLoganayagi/leet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/TLoganayagi/leet/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3463-alternating-groups-i](https://github.com/TLoganayagi/leet/tree/master/3463-alternating-groups-i) |
 | [3467-transform-array-by-parity](https://github.com/TLoganayagi/leet/tree/master/3467-transform-array-by-parity) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/TLoganayagi/leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/TLoganayagi/leet/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/TLoganayagi/leet/tree/master/1833-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/TLoganayagi/leet/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/TLoganayagi/leet/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
 | ------- |
