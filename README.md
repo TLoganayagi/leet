@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TLoganayagi/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TLoganayagi/leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/TLoganayagi/leet/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/TLoganayagi/leet/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TLoganayagi/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/TLoganayagi/leet/tree/master/0875-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/TLoganayagi/leet/tree/master/0924-fair-candy-swap) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/TLoganayagi/leet/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/TLoganayagi/leet/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/TLoganayagi/leet/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/TLoganayagi/leet/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/TLoganayagi/leet/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/TLoganayagi/leet/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/TLoganayagi/leet/tree/master/0830-largest-triangle-area) |
