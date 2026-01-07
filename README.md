@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/TLoganayagi/leet/tree/master/3194-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/TLoganayagi/leet/tree/master/3248-snake-in-matrix) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/TLoganayagi/leet/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TLoganayagi/leet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3463-alternating-groups-i](https://github.com/TLoganayagi/leet/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/TLoganayagi/leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TLoganayagi/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/TLoganayagi/leet/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/TLoganayagi/leet/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TLoganayagi/leet/tree/master/3146-permutation-difference-between-two-strings) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TLoganayagi/leet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TLoganayagi/leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/TLoganayagi/leet/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/TLoganayagi/leet/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/TLoganayagi/leet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/TLoganayagi/leet/tree/master/2630-alternating-digit-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/TLoganayagi/leet/tree/master/2864-maximum-odd-binary-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TLoganayagi/leet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TLoganayagi/leet/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TLoganayagi/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TLoganayagi/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
