@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TLoganayagi/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TLoganayagi/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TLoganayagi/leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/TLoganayagi/leet/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/TLoganayagi/leet/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TLoganayagi/leet/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TLoganayagi/leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/TLoganayagi/leet/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TLoganayagi/leet/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TLoganayagi/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TLoganayagi/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TLoganayagi/leet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/TLoganayagi/leet/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
