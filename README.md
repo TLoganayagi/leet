@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/TLoganayagi/leet/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/TLoganayagi/leet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TLoganayagi/leet/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/TLoganayagi/leet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/TLoganayagi/leet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TLoganayagi/leet/tree/master/0058-length-of-last-word) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TLoganayagi/leet/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TLoganayagi/leet/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TLoganayagi/leet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/TLoganayagi/leet/tree/master/0047-permutations-ii) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TLoganayagi/leet/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/TLoganayagi/leet/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TLoganayagi/leet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TLoganayagi/leet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/TLoganayagi/leet/tree/master/0062-unique-paths) |
