@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/TLoganayagi/leet/tree/master/3463-alternating-groups-i) |
 | [3467-transform-array-by-parity](https://github.com/TLoganayagi/leet/tree/master/3467-transform-array-by-parity) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/TLoganayagi/leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TLoganayagi/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TLoganayagi/leet/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TLoganayagi/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/TLoganayagi/leet/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/TLoganayagi/leet/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/TLoganayagi/leet/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/TLoganayagi/leet/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TLoganayagi/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/TLoganayagi/leet/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/TLoganayagi/leet/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/TLoganayagi/leet/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3248-snake-in-matrix](https://github.com/TLoganayagi/leet/tree/master/3248-snake-in-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TLoganayagi/leet/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TLoganayagi/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/TLoganayagi/leet/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -897,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/TLoganayagi/leet/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TLoganayagi/leet/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/TLoganayagi/leet/tree/master/1669-merge-in-between-linked-lists) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TLoganayagi/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -913,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TLoganayagi/leet/tree/master/0451-sort-characters-by-frequency) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TLoganayagi/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -979,4 +984,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/TLoganayagi/leet/tree/master/0877-stone-game) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TLoganayagi/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TLoganayagi/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
