@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/TLoganayagi/leet/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TLoganayagi/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TLoganayagi/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/TLoganayagi/leet/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/TLoganayagi/leet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TLoganayagi/leet/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TLoganayagi/leet/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TLoganayagi/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/TLoganayagi/leet/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/TLoganayagi/leet/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/TLoganayagi/leet/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/TLoganayagi/leet/tree/master/0561-array-partition) |
